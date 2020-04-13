@@ -2,7 +2,8 @@ body{
     padding: 0px;
     margin: 0px;
     background-color: lightgoldenrodyellow;
-    color: teal;
+    /* color: teal; */
+    color: #42a044;
 }
 
 .name{
